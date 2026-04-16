@@ -19,7 +19,6 @@ public class TrainConsistentApp {
 =======
 import java.util.Comparator;
 import java.util.List;
-
 // Bogie class
 class Bogie {
     String name;
