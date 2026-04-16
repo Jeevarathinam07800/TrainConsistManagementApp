@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/TrainConsistManagementApp.iml" filepath="$PROJECT_DIR$/TrainConsistManagementApp.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/TrainConsistManagement.iml" filepath="$PROJECT_DIR$/TrainConsistManagement.iml" />
+>>>>>>> 44ef94f ( Sort Bogies by Capacity (Comparator))
     </modules>
   </component>
 </project>
